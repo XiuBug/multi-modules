@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="modulesParents-api" />
+        <module name="modulesParents-beans" />
+        <module name="modulesParents-common" />
+        <module name="modulesParents-dao" />
+        <module name="modulesParents-redis" />
+        <module name="modulesParents-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="modulesParents" target="1.5" />
+      <module name="modulesParents-api" target="1.7" />
+      <module name="modulesParents-beans" target="1.6" />
+      <module name="modulesParents-common" target="1.7" />
+      <module name="modulesParents-dao" target="1.5" />
+      <module name="modulesParents-redis" target="1.7" />
+      <module name="modulesParents-service" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

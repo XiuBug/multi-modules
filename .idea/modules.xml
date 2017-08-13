@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modulesParents.iml" filepath="$PROJECT_DIR$/modulesParents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulesParents-api/modulesParents-api.iml" filepath="$PROJECT_DIR$/modulesParents-api/modulesParents-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulesParents-beans/modulesParents-beans.iml" filepath="$PROJECT_DIR$/modulesParents-beans/modulesParents-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulesParents-common/modulesParents-common.iml" filepath="$PROJECT_DIR$/modulesParents-common/modulesParents-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulesParents-dao/modulesParents-dao.iml" filepath="$PROJECT_DIR$/modulesParents-dao/modulesParents-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulesParents-redis/modulesParents-redis.iml" filepath="$PROJECT_DIR$/modulesParents-redis/modulesParents-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulesParents-service/modulesParents-service.iml" filepath="$PROJECT_DIR$/modulesParents-service/modulesParents-service.iml" />
+    </modules>
+  </component>
+</project>

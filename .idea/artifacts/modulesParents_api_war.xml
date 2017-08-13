@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="modulesParents-api:war">
+    <output-path>$PROJECT_DIR$/modulesParents-api/target</output-path>
+    <root id="archive" name="com.mk.ssm.api.war">
+      <element id="artifact" artifact-name="modulesParents-api:war exploded" />
+    </root>
+  </artifact>
+</component>
